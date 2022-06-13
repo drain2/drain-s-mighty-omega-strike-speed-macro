@@ -61,6 +61,8 @@ F1::
           Sleep 1150
           Send, {Lbutton}
           Sleep 1150
+	  Send, {Lbutton}
+          Sleep 50
           Send, {s down}
           Sleep 1200
           Send, {s up}
